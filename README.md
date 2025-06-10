@@ -41,17 +41,3 @@ Improved understanding of real-world QA lifecycle
 Gained hands-on experience in designing test scenarios for a business-critical application
 
 Practiced professional bug reporting and client communication via UAT documents
-
-
-
-
-
-
-
-
-
-Tools
-
-
-
-ChatGPT can m
